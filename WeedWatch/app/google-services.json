@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062018631557",
+    "project_id": "weedwatch-cbc8a",
+    "storage_bucket": "weedwatch-cbc8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062018631557:android:063fb6ec71974ae2a8a6ec",
+        "android_client_info": {
+          "package_name": "com.example.WeedWatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQNQxYnpTXsu3P9LS_HBv8vUu4geS53s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062018631557:android:e4599df167457631a8a6ec",
+        "android_client_info": {
+          "package_name": "com.example.weedwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQNQxYnpTXsu3P9LS_HBv8vUu4geS53s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

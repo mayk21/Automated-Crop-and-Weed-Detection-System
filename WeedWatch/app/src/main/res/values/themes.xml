@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeedWatch" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+      <!--  <item name="colorPrimary">@color/logo_green</item>
+        <item name="colorPrimaryVariant">@color/logo_green</item> -->
+    </style>
+
+    <style name="Theme.WeedWatch" parent="Base.Theme.WeedWatch" />
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF008000</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="gray">#FF808080</color>
+
+    <!-- Dark Shades -->
+    <color name="dark_red">#FF8B0000</color>
+    <color name="dark_blue">#FF00008B</color>
+    <color name="dark_green">#FF006400</color>
+    <color name="dark_gray">#FF505050</color>
+
+    <!-- Light Shades -->
+    <color name="light_red">#FFFFA07A</color>
+    <color name="light_blue">#FFADD8E6</color>
+    <color name="light_green">#FF90EE90</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="light_yellow">#FFFFFFE0</color>
+
+    <!-- Soft Pastels -->
+    <color name="pastel_pink">#FFFFD1DC</color>
+    <color name="pastel_blue">#FFAEC6CF</color>
+    <color name="pastel_green">#FF77DD77</color>
+    <color name="pastel_purple">#FFB39EB5</color>
+
+    <!-- Neon Colors -->
+    <color name="neon_pink">#FFFF10F0</color>
+    <color name="neon_blue">#FF1F51FF</color>
+    <color name="neon_green">#FF39FF14</color>
+    <color name="neon_orange">#FFFF4500</color>
+
+    <!-- Earthy Tones -->
+    <color name="brown">#FF8B4513</color>
+    <color name="beige">#FFF5F5DC</color>
+    <color name="olive">#FF808000</color>
+    <color name="maroon">#FF800000</color>
+
+    <!-- Custom UI Colors -->
+    <color name="primary">#FF6200EA</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="background">#FFF8F9FA</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="logo_green">#019d53</color>
+    <color name="bg_green">#A7E48D</color>>
+</resources>

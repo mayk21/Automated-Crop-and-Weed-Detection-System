@@ -1,0 +1,4 @@
+ultralytics
+flask
+Pillow
+torch
